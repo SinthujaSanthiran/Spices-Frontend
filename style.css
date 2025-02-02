@@ -48,7 +48,7 @@ section {
 
 /***home****/
 #home {
-    background-image: url(img1.jpg);
+    background-image: url(images/img1.jpg);
     background-size: cover;
     background-position: center;
     flex-direction: column;
